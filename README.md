@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on NLPs and LLMs
 - 📫 How to reach me pranavparab0911@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In 1997, IBM's Deep Blue defeated the world chess champion Garry Kasparov, marking a historic milestone for machine learning.
+- ⚡ Fun fact: The first computer 'bug' was a real moth!
 
 <!---
 PProodle/PProodle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
